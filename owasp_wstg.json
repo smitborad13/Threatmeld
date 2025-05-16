@@ -1,0 +1,5 @@
+{
+  "WSTG-INPV-01": "Testing for SQL Injection",
+  "WSTG-INPV-02": "Testing for XSS",
+  "WSTG-ATHN-01": "Testing for Authentication Bypass"
+}
